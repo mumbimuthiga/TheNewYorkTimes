@@ -1,0 +1,187 @@
+
+#topbar{
+	width: 100%;
+	height: 50px;
+	background-color: #fff;
+	display: inline-flex;
+	border-bottom: 1px solid black;
+	background-color: light-grey;
+	margin-bottom: 10px;
+}
+#bars{
+	height: 20px;
+	margin-top: 28px;
+}
+#search{
+height: 20px;
+margin-top: 28px;
+margin-left: 20px;
+}
+h1{
+	margin-left: 22px;
+}
+h2{
+	position: absolute;
+	top: 10px;
+	margin-left: 540px;
+	position: fixed;
+	font-family: PussyCat,Algerian ,Broadway ,fantasy;
+}
+button{
+	margin: 20px;
+	width: 70px;
+	height: 30px;
+	border-radius: border-box;
+    margin-left: 480px;
+    float: right;  
+    top: 0;
+    margin-bottom: 8px;
+    background-color: blue;
+}
+#subscribe{
+position: absolute;
+ right: 0;	    
+}
+#login{
+position: absolute;
+ right: 87px;	    
+}
+.space-ripples h3{
+	margin-left: 20%;
+	margin-right: 20%;
+	font-family: nyt-cheltenham,georgia,'times new roman',times,serif;
+    font-weight: 700;
+    font-style: italic;
+    font-size: 1.9375rem;
+    line-height: 2.25rem;
+
+}
+.space-ripples img ,p ,span{
+	margin-left: 15%;
+	color: #666;
+    
+  
+}
+span{
+	font: inherit;
+}
+.main {
+	margin-left: 30%;
+	margin-right: 20%;
+	font-size: 1.25rem;
+    line-height: 1.875rem;
+
+}
+.line{
+	margin-left: 270px;
+}
+.content-main p ,span{
+	margin-left: 1%;
+}
+.content-main span{
+	font-family: nyt-franklin,helvetica,arial,sans-serif;
+    
+}
+.icons{
+	display: inline-flex;
+	margin-left: 240px;
+	margin-right: 20px;
+
+	
+}
+.theory{
+	margin-left: 20%;
+	margin-right: 5%;
+	font-size: 1.25rem;
+
+}
+.images{
+	margin-left: 19%;
+	margin-right: 8%;
+}
+.images2{
+
+	margin-left: 19%;
+	margin-right: 8%;
+}
+.imagebicep{
+
+	color: #666;
+    font-family: nyt-imperial,georgia,'times new roman',times,serif;
+    font-size: 0.875rem;
+    line-height: 1.125rem
+}
+.theory p{
+	margin-left: 1%;
+}
+.block1{
+	display: inline-flex;
+	margin-left: 200px;
+}
+.block2{
+	display: inline-flex;
+	margin-left: 200px;
+}
+.universe {
+	width: 250px;
+	height: 300px;
+	margin-left: 3%;
+}
+.fluctuate {
+	width: 250px;
+	height: 300px;
+}
+.expansion {
+	width: 250px;
+	height: 300px;
+}
+.still {
+	width: 250px;
+	height: 300px;
+}
+.everywhere {
+	width: 250px;
+	height: 300px;
+}
+.coffee {
+	width: 250px;
+	height: 300px;
+}
+.enough {
+	width: 250px;
+	height: 300px;
+}
+.inflation {
+	width: 250px;
+	height: 300px;
+}
+h5{
+	margin-right: 5%;
+	margin-left: 20%;
+	font-size: .875rem;
+    line-height: 18px;
+    line-height: 1.125rem;
+    font-weight: 500;
+    font-style: normal;
+    font-family: nyt-franklin,arial,helvetica,sans-serif;
+}
+.kovac {
+	margin-left: 30%;
+	margin-right: 20%;
+	font-size: 1.25rem;
+    line-height: 1.875rem;
+}
+footer{
+	border: 0px solid grey;
+	vertical-align: baseline;
+	background-color: "#666";
+}
+ul li{
+	list-style: none;
+	display: inline-block;
+	margin: 3px;
+	font-size: 0.85rem;
+	text-decoration: none;
+	
+
+}
